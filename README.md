@@ -1,6 +1,4 @@
 TestRepository
 ==============
 
-Testing Merger and Rebase
-
-Test comment on TestBranch2
+Testing Merge and Rebase with GitHub and IntelliJ Idea
