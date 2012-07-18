@@ -1,4 +1,4 @@
 TestRepository
 ==============
 
-Testing Merger and Rebase
+Testing Merge and Rebase
