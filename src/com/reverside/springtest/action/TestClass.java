@@ -6,6 +6,6 @@ package com.reverside.springtest.action;
 public class TestClass {
 
     public static void main(String[] args) {
-        System.out.println("lalalalalala");
+        System.out.println("lalalalalalala");
     }
 }
