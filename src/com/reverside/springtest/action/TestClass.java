@@ -8,6 +8,6 @@ package com.reverside.springtest.action;
 public class TestClass {
 
     public static void main(String[] args) {
-        System.out.println("lalalalalalala");
+        System.out.println("rararararara");
     }
 }
