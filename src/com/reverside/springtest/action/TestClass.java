@@ -11,11 +11,8 @@ package com.reverside.springtest.action;
 public class TestClass {
 
     public static void main(String[] args) {
-<<<<<<< HEAD
         System.out.println("lara lara lara lara lara");
-=======
 
         System.out.println("lalala rararara kkkkkkka");
->>>>>>> remotes/origin/master
 }
 }
