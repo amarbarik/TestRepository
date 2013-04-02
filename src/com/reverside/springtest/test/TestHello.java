@@ -10,6 +10,6 @@ package com.reverside.springtest.test;
 public class TestHello {
 
     public static void main (String args[]){
-        System.out.println("Test Repo");
+        System.out.println("Test Repo x x ");
     }
 }
